@@ -5,4 +5,4 @@
 * salt
 ## Instructions
 * peel the avocados
-* cut the avocados in big chunks
+* Place avocado in bowl
