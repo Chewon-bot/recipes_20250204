@@ -5,4 +5,4 @@
 * salt
 ## Instructions
 * Peel the avocados
-
+* Squeeze lime into guacamole
